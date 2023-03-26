@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=MirellaLDSPro&color=dc143c)
 
 Here are some ideas to get you started:
 
